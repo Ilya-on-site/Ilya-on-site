@@ -1,5 +1,6 @@
 - Hi, I’m Ilya. Also known as @intkred
-- I’m interested in programming languages, compilers, databases, filesystems, Numerical analysis(Numerical methods), HPC, GPU Computing, DS/ML, LLM, Gen AI, GAN.
+- I’m interested in DS/ML, LLM, Gen AI, GAN, Numerical analysis(Numerical methods), HPC, GPU Computing, programming languages, compilers, databases, filesystems.
+
 - I’m looking to collaborate on ...
 - How to reach me ...
 
